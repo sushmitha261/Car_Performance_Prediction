@@ -1,0 +1,34 @@
+<!doctype html>
+
+
+
+<html lang='en'>
+    <meta name="viewport" content="width=device-width",>
+    <title>APP</title>
+<head>
+    <body>
+        <body style="background-color:coral;"></body>
+        <h1><center>CAR PERFORMANCE PREDICTION</center></h1>
+        <div class="container text-center">
+            
+        <form action="/predict" method="POST">
+            
+            <input type="text" name="cylinders" placeholder="cylinders"><br>
+            <input type="text" name="displacement" placeholder="displacement"><br>
+            <input type="text" name="horsepower" placeholder="horsepower"><br>
+            <input type="text" name="weight" placeholder="weight"><br>
+            <input type="text" name="modelyear" placeholder="modelyear"><br>
+            <input type="text" name="origin" placeholder="origin"><br>
+            <button class="btn btn-success ">predict</button>
+            
+        </form>
+
+
+        </div>
+    </body>
+</head>
+<style>
+    h1 {text-align: center;}
+    div {text-align: center; border:'solid-green'; padding:50px; font-size : 35px ;margin : 4px 2px;}
+    </style>
+</html>

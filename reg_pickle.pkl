@@ -1,0 +1,3 @@
+€•      Œsklearn.linear_model._base”ŒLinearRegression”“”)”}”(Œfit_intercept”ˆŒ	normalize”‰Œcopy_X”ˆŒn_jobs”NŒn_features_in_”KŒcoef_”Œnumpy.core.multiarray”Œ_reconstruct”“”Œnumpy”Œndarray”“”K …”Cb”‡”R”(KK…”hŒdtype”“”Œf8”K K‡”R”(KŒ<”NNNJÿÿÿÿJÿÿÿÿK t”b‰C0„}§¼eÜÛ¿ÒxÏ~|¤’?Í&úìz•¿uµ2’/z¿	ª2=Ãè?òÔS\i¾ö?”t”bŒ	_residues”hŒscalar”“”hCÖu[¸á±@”†”R”Œrank_”KŒ	singular_”hhK …”h‡”R”(KK…”h‰C0ØÁjŽH™Ð@	$>ÒÓ(ˆ@mK]¶Ât@‚ o…ŒP@L/"£(@XÀðÙy$@”t”bŒ
+intercept_”h!hC¨†
+Ä„Ã/À”†”R”Œ_sklearn_version”Œ0.23.1”ub.
